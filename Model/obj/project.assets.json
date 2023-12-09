@@ -1,26 +1,27 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {},
+    "net7.0/linux-x64": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "/home/yahya_210999/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Giki HnC\\Giki\\Model\\Model.csproj",
+      "projectUniqueName": "/home/yahya_210999/University/giki HnC/hackathon/Giki/Model/Model.csproj",
       "projectName": "Model",
-      "projectPath": "D:\\Giki HnC\\Giki\\Model\\Model.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Giki HnC\\Giki\\Model\\obj\\",
+      "projectPath": "/home/yahya_210999/University/giki HnC/hackathon/Giki/Model/Model.csproj",
+      "packagesPath": "/home/yahya_210999/.nuget/packages/",
+      "outputPath": "/home/yahya_210999/University/giki HnC/hackathon/Giki/Model/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/yahya_210999/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +60,12 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Administrator\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "linux-x64": {
+        "#import": []
       }
     }
   }

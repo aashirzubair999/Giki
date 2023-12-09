@@ -2,7 +2,11 @@
 @using Model.Dto
 @using UserInterface.AuthenticationService
 @using DataAccess.Service.Impl
+@using Controller.Services
+@using System.Diagnostics
 @inject NavigationManager nm
+@inject IAuthService authService
+@inject ILoginService auth
 
 <style>
     .custom-card-shadow {
@@ -52,23 +56,20 @@
                                             <DataAnnotationsValidator/>
                                             <div class="form-outline mb-4">
                                                 <label class="form-label" for="form2Example1">Email address</label>
-                                                <input type="email" id="form2Example1" placeholder="Enter your Email" class="form-control"/>
+                                                <input type="email" id="form2Example1" placeholder="Enter your Email" class="form-control" @bind="authDto.Email" required/>
                                                 <ValidationMessage For="@(() => authDto.Email)"/>
                                             </div>
 
                                             <div class="form-outline mb-4">
                                                 <label class="form-label" for="form2Example2">Password</label>
-                                                <input type="password" id="form2Example2" placeholder="Enter your Password  " class="form-control"/>
+                                                <input type="password" id="form2Example2" placeholder="Enter your Password  " class="form-control" @bind="authDto.Password" required/>
                                                 <ValidationMessage For="@(() => authDto.Password )"/>
                                             </div>
 
 
-
-                                            <div class="d-flex justify-content-center align-content-center">
-                                                <div class="btn btn-success border rounded-pill" style="width:200px">
-                                                    LOGIN
-                                                </div>
-                                            </div>
+<button class="login-button" type="submit">Login</button>
+                                            
+                                            
                                             @if (!string.IsNullOrWhiteSpace(error))
                                             {
                                                 <div class="alert alert-danger">
@@ -97,7 +98,6 @@
     private AuthDto authDto= new ();
     private EditContext? editContext;
     private string? error = string.Empty;
-    private AuthService authService;
 
     protected override void OnInitialized()
     {
@@ -108,8 +108,10 @@
 
     private async Task Login()
     {
-        bool check = await authService.LoginUser(authDto);
 
+        bool check = await authService.LoginUser(authDto);
+        Debug.WriteLine("What the hell: " + check.ToString());
+        
         if (check)
         {
             nm.NavigateTo("/home");
@@ -118,12 +120,6 @@
         {
             error = "Error Logging in";
         }
-        
-            
-        
-            
-        
-        
     }
 
 }

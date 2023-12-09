@@ -1,4 +1,13 @@
 ﻿@page "/home"
+@using UserInterface.AuthenticationService
+@using Controller.Services
+@using DataAccess.Repositories
+@using DataAccess.Repository.Impl
+@using ClassLibraryDAL
+@inject ILoginService logout
+@inject IAuthService authService
+@inject IShipmentRepository shipmentRepo
+@inject NavigationManager nm
 <section>
     <div class="container-fluid p-5">
 
@@ -11,7 +20,6 @@
 
     <div class="container ">
        
-        
             <div class="row">
                 <div class="col-md-10 col-sm-10 col-lg-12 ">
                 <div class="card shadow-lg p-3 mb-5 bg-white rounded border border-success">
@@ -41,7 +49,7 @@
                 <div class="">
 
                 <div class="d-flex justify-content-end ">
-                    <div class="btn btn-success border rounded-pill" style="width:200px">
+                    <div class="btn btn-success border rounded-pill" style="width:200px" @onclick="LogoutUser">
                         LOG OUT
                     </div>
                 </div>
@@ -60,5 +68,18 @@
 
 
 @code {
+    List<ShipmentRequest?> shipments;
+    protected override async Task<Task> OnInitializedAsync()
+    {
+        shipments = await shipmentRepo.GetApprovedShipments();
+        return base.OnInitializedAsync();
+    }
 
+    private async Task LogoutUser()
+    {
+        Console.WriteLine("logout func ran");
+        await logout.Logout();
+        nm.NavigateTo("/", true);
+        Console.WriteLine("pressed");
+    }
 }

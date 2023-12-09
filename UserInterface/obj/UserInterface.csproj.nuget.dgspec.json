@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Giki HnC\\Giki\\UserInterface\\UserInterface.csproj": {}
+    "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/UserInterface.csproj": {}
   },
   "projects": {
-    "D:\\Giki HnC\\Giki\\DataAccess\\DataAccess.csproj": {
+    "/home/yahya_210999/University/giki HnC/hackathon/Giki/DataAccess/DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Giki HnC\\Giki\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "/home/yahya_210999/University/giki HnC/hackathon/Giki/DataAccess/DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\Giki HnC\\Giki\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Giki HnC\\Giki\\DataAccess\\obj\\",
+        "projectPath": "/home/yahya_210999/University/giki HnC/hackathon/Giki/DataAccess/DataAccess.csproj",
+        "packagesPath": "/home/yahya_210999/.nuget/packages/",
+        "outputPath": "/home/yahya_210999/University/giki HnC/hackathon/Giki/DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/yahya_210999/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Giki HnC\\Giki\\Model\\Model.csproj": {
-                "projectPath": "D:\\Giki HnC\\Giki\\Model\\Model.csproj"
+              "/home/yahya_210999/University/giki HnC/hackathon/Giki/Model/Model.csproj": {
+                "projectPath": "/home/yahya_210999/University/giki HnC/hackathon/Giki/Model/Model.csproj"
               }
             }
           }
@@ -71,21 +71,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Administrator\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     },
-    "D:\\Giki HnC\\Giki\\Model\\Model.csproj": {
+    "/home/yahya_210999/University/giki HnC/hackathon/Giki/Model/Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Giki HnC\\Giki\\Model\\Model.csproj",
+        "projectUniqueName": "/home/yahya_210999/University/giki HnC/hackathon/Giki/Model/Model.csproj",
         "projectName": "Model",
-        "projectPath": "D:\\Giki HnC\\Giki\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Giki HnC\\Giki\\Model\\obj\\",
+        "projectPath": "/home/yahya_210999/University/giki HnC/hackathon/Giki/Model/Model.csproj",
+        "packagesPath": "/home/yahya_210999/.nuget/packages/",
+        "outputPath": "/home/yahya_210999/University/giki HnC/hackathon/Giki/Model/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/yahya_210999/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -124,35 +129,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Administrator\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     },
-    "D:\\Giki HnC\\Giki\\UserInterface\\UserInterface.csproj": {
+    "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/UserInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Giki HnC\\Giki\\UserInterface\\UserInterface.csproj",
+        "projectUniqueName": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/UserInterface.csproj",
         "projectName": "UserInterface",
-        "projectPath": "D:\\Giki HnC\\Giki\\UserInterface\\UserInterface.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Giki HnC\\Giki\\UserInterface\\obj\\",
+        "projectPath": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/UserInterface.csproj",
+        "packagesPath": "/home/yahya_210999/.nuget/packages/",
+        "outputPath": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/yahya_210999/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Users\\Administrator\\.dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Giki HnC\\Giki\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Giki HnC\\Giki\\DataAccess\\DataAccess.csproj"
+              "/home/yahya_210999/University/giki HnC/hackathon/Giki/DataAccess/DataAccess.csproj": {
+                "projectPath": "/home/yahya_210999/University/giki HnC/hackathon/Giki/DataAccess/DataAccess.csproj"
               }
             }
           }
@@ -177,6 +186,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -185,7 +208,12 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Administrator\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }
