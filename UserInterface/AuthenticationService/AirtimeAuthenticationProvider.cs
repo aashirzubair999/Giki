@@ -31,6 +31,7 @@ public class TruckerAuthenticationProvider : AuthenticationStateProvider, ILogin
             {
                 var claimsPrincipal = new ClaimsPrincipal(new ClaimsIdentity(new List<Claim>
                 {
+                    new ("UserID", userSession.Id.ToString()),
                     new(ClaimTypes.Name, userSession.Name),
                     new(ClaimTypes.Role, userSession.Role),
                     new(ClaimTypes.Email, userSession.Email),
@@ -53,6 +54,7 @@ public class TruckerAuthenticationProvider : AuthenticationStateProvider, ILogin
         var claimsPrincipal = new ClaimsPrincipal(
             new ClaimsIdentity(new List<Claim>
             {
+                new("UserID", userSession.Id.ToString()),
                 new(ClaimTypes.Name, userSession.Name),
                 new(ClaimTypes.Role, userSession.Role),
                 new(ClaimTypes.Email, userSession.Email),
