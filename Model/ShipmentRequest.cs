@@ -1,3 +1,5 @@
+using Model;
+
 namespace ClassLibraryDAL;
 
 public class ShipmentRequest
@@ -8,5 +10,6 @@ public class ShipmentRequest
     public int? AcceptedBy { get; set; }
     public Location LiveLocation { get; set; } = new Location();
     public City ShippedFromCity { get; set; }
+    public Vendor ShipmentToVendor { get; set; }
     
 }
