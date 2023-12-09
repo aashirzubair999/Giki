@@ -6,6 +6,5 @@ namespace Controller.Services;
 public interface IAuthService
 {
     
-
     Task<bool> LoginUser(AuthDto auth);
 }

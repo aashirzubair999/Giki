@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zP/2FRWsUedOHTreRstykJ2AvFoX+xY7wlPOZRez7FU=",
+  "Hash": "MFEcbyQX/p0Jy5GO7m4w8kZq+16GRpJZ6SdaxzM3wsA=",
   "Source": "UserInterface",
   "BasePath": "_content/UserInterface",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "UserInterface\\wwwroot",
+      "Name": "UserInterface/wwwroot",
       "Source": "UserInterface",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\obj\\Debug\\net7.0\\scopedcss\\bundle\\UserInterface.styles.css",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/obj/Debug/net7.0/scopedcss/bundle/UserInterface.styles.css",
       "SourceId": "UserInterface",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "UserInterface.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Giki HnC\\Giki\\UserInterface\\obj\\Debug\\net7.0\\scopedcss\\bundle\\UserInterface.styles.css"
+      "OriginalItemSpec": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/obj/Debug/net7.0/scopedcss/bundle/UserInterface.styles.css"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\UserInterface.bundle.scp.css",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/obj/Debug/net7.0/scopedcss/projectbundle/UserInterface.bundle.scp.css",
       "SourceId": "UserInterface",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "UserInterface.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Giki HnC\\Giki\\UserInterface\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\UserInterface.bundle.scp.css"
+      "OriginalItemSpec": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/obj/Debug/net7.0/scopedcss/projectbundle/UserInterface.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "UserInterface",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "UserInterface",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "UserInterface",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "UserInterface",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "UserInterface",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "UserInterface",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "UserInterface",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "UserInterface",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "UserInterface",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "UserInterface",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/README.md",
       "SourceId": "UserInterface",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\site.css",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/site.css",
       "SourceId": "UserInterface",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\favicon.png",
+      "Identity": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/favicon.png",
       "SourceId": "UserInterface",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\",
+      "ContentRoot": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/",
       "BasePath": "_content/UserInterface",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -269,7 +269,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.png"
+      "OriginalItemSpec": "wwwroot/favicon.png"
     }
   ]
 }

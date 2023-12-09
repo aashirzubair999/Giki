@@ -1,75 +1,75 @@
 {
   "Files": [
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\UserInterface.bundle.scp.css",
-      "PackagePath": "staticwebassets\\UserInterface.bundle.scp.css"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/obj/Debug/net7.0/scopedcss/projectbundle/UserInterface.bundle.scp.css",
+      "PackagePath": "staticwebassets/UserInterface.bundle.scp.css"
     },
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "PackagePath": "staticwebassets\\css\\open-iconic"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
     },
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
-      "PackagePath": "staticwebassets\\css\\open-iconic"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
     },
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\README.md",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
     },
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "D:\\Giki HnC\\Giki\\UserInterface\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
+      "Id": "/home/yahya_210999/University/giki HnC/hackathon/Giki/UserInterface/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.UserInterface.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.UserInterface.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.UserInterface.props",
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.UserInterface.props",
       "PackagePath": "build\\UserInterface.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.UserInterface.props",
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.UserInterface.props",
       "PackagePath": "buildMultiTargeting\\UserInterface.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.UserInterface.props",
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.UserInterface.props",
       "PackagePath": "buildTransitive\\UserInterface.props"
     }
   ],
